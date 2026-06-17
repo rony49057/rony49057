@@ -38,11 +38,18 @@
 
 #### // database & tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" style="background-color: #1a1b26; padding: 6px; border-radius: 10px;" alt="Oracle" />
-  <a href="https://skillicons.dev">
+  <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" style="background-color: #1a1b26; padding: 8px; border-radius: 12px; margin-right: 4px;" alt="Oracle" />
+  
+  <!-- MySQL -->
+  <a href="https://skillicons.dev" style="margin-right: 4px;">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server.svg" width="48" height="48" style="background-color: #1a1b26; padding: 6px; border-radius: 10px;" alt="MSSQL" />
+  
+  <!-- Microsoft SQL Server / SSMS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="48" height="48" style="background-color: #1a1b26; padding: 6px; border-radius: 12px; margin-right: 4px;" alt="MSSQL" />
+  
+  <!-- Git & GitHub -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
