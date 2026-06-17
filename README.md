@@ -52,15 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rony49057&show_icons=true&theme=radial&count_private=true" alt="Rony's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rony49057&theme=radial" alt="GitHub Streak" />
-</p>
 
 ---
 
