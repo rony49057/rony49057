@@ -1,4 +1,5 @@
 # Hi there, I'm MD. ASADUZZAMAN RONY! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Din&pause=1000&width=435&lines=Asaduzzaman+Rony)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 * 🌐 **Web Developer & Data Analyst** passionate about building clean, responsive, and user-focused web applications.
