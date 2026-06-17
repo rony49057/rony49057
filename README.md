@@ -38,8 +38,13 @@
 
 #### // database & tools
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" style="background-color: #1a1b26; padding: 6px; border-radius: 10px;" alt="Oracle" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,mssql,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server.svg" width="48" height="48" style="background-color: #1a1b26; padding: 6px; border-radius: 10px;" alt="MSSQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 <p align="left">
