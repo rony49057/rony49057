@@ -1,4 +1,4 @@
-#
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Din&size=30&pause=1000&width=440&height=60&lines=Hi+there%2C;I'm+Rony)](https://git.io/typing-svg)
 
 ### 🚀 About Me
