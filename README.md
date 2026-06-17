@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Din&size=30&pause=1000&width=440&height=60&lines=Hi+there%2C;I'm+Rony)](https://git.io/typing-svg)
 
 ### 🚀 About Me
-* 🌐 **Web Developer & Data Analyst** passionate about building clean, responsive, and user-focused web applications.
+* 🌐 **Web Developer & Data Analyst,** passionate about building clean, responsive, and user-focused web applications.
 * 🎓 Computer Science & Engineering graduate from **American International University-Bangladesh (AIUB)**.
 * 🛠️ Frequently managing, tracking, and deploying my projects using **Git & GitHub**.
 
