@@ -39,11 +39,11 @@
 #### // database & tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,git,github" />
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,mssql,git,github" />
   </a>
 </p>
 <p align="left">
-  <code>Oracle</code> <code>Git</code> <code>GitHub</code>
+  <code>Oracle</code> <code>MySQL</code> <code>MSSQL Server</code> <code>Git</code> <code>GitHub</code>
 </p>
 ---
 
