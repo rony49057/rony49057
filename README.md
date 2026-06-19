@@ -75,37 +75,29 @@
 
 ### 🤝 Connect with Me
 
-<table>
-  <tr>
-    <!-- LinkedIn -->
-    <td style="border: none; padding: 0 4px;">
-      <a href="https://www.linkedin.com/in/rony49057/" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-      </a>
-    </td>
-    <!-- WhatsApp -->
-    <td style="border: none; padding: 0 4px;">
-      <a href="https://wa.me/8801787024458" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/whatsapp-icon.svg" width="46" height="46" style="background-color: white; border-radius: 10px; display: block;" alt="WhatsApp" />
-      </a>
-    </td>
-    <!-- Facebook -->
-    <td style="border: none; padding: 0 4px;">
-      <a href="https://www.facebook.com/rony49057" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/facebook.svg" width="46" height="46" style="background-color: white; border-radius: 10px; display: block;" alt="Facebook" />
-      </a>
-    </td>
-    <!-- Instagram -->
-    <td style="border: none; padding: 0 4px;">
-      <a href="https://www.instagram.com/rony_49057" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-      </a>
-    </td>
-    <!-- Gmail -->
-    <td style="border: none; padding: 0 4px;">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ronyaiubcse@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rony49057/" target="_blank" style="margin-right: 6px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801787024458" target="_blank" style="margin-right: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/whatsapp-icon.svg" width="46" height="46" style="background-color: white ; padding: 0px; border-radius: 10px;  box-sizing: border-box;" alt="WhatsApp" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/rony49057" target="_blank" style="margin-right: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@master/logos/facebook.svg" width="46" height="46" style="background-color: white; padding: 0px; border-radius: 10px; display: inline-block; box-sizing: border-box;" alt="Facebook" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rony_49057" target="_blank" style="margin-right: 6px;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ronyaiubcse@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
