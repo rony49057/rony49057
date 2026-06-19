@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Din&size=30&pause=500&width=440&height=60&lines=Hi+there%2C;I'm+Rony)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&width=450&height=60&lines=Hi+there+%2C+I'm+Rony)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 * 🌐 **Web Developer & Data Analyst,** passionate about building clean, responsive, and user-focused web applications.
